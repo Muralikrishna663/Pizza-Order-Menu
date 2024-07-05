@@ -1,0 +1,31 @@
+/* Each sub-menu starts out hidden. */
+.initiallyHidden {
+	display:none;
+}
+
+.menu {
+	margin-left:20px;
+}
+.container{
+	background-color: rgb(155, 169, 180);
+	color: black;
+
+}
+
+.menu-initiallyHidden{
+	cursor: pointer;
+}
+
+.tablehead{
+	font-size: 25px;
+	background-color: rgb(0, 0, 0);
+	color: rgb(217, 230, 48);
+}
+
+.order-button{
+	font-size: 20px;
+	border: none;
+	padding: 10px 10px;
+	background-color: green;
+	color: white;
+}
